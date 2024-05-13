@@ -7,9 +7,9 @@ postgresql:
   global:
     postgresql:
       auth:
-        postgresPassword: "Pass4@Meee"
+        postgresPassword: "ChnageYourPass"
         username: "bn_keycloak"
-        password: "Pass4@Me"
+        password: "ChnagePass"
         database: "bitnami_keycloak"
   primary:
     persistence:
